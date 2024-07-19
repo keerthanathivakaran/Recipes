@@ -1,0 +1,142 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner {
+
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+
+    text-align: center;
+    margin-top: 1%;
+    margin-left: 25%;
+    cursor: pointer;
+
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    height: 950px;
+    color: ghostwhite;
+    font-size: x-large;
+
+
+}
+ul li{
+    margin-top: -70px;
+}
+
+ul p {
+    padding-top: 50px;
+
+}
+
+div.logo img {
+    width: 100px;
+    height: 75px;
+}
+
+i {
+    margin-top: 25%;
+}
+
+.about {
+    margin-top: 40px;
+    text-align: center;
+   
+    
+}
+
+
+
+.img {
+    margin: 25px;
+}
+
+.banner1 {
+    background-image: url(image/food.5.jpg);
+
+}
+
+.banner2 {
+    background-image: url(image/about.3.jpg);
+    text-align: center;
+    font-size: xx-large;
+    margin: 10px;
+    padding: 70px;
+    height: max-content;
+}
+
+.banner2 p {
+    color: ghostwhite;
+    font-size: small;
+}
+
+.banner2 i {
+    color: darkcyan;
+    font-size: 50px;
+}
+
+.banner2 button {
+    background-color: orange;
+    border: none;
+    padding: 15px;
+    border-radius: 28px;
+}
+
+footer {
+
+    background-color: black;
+    color: beige;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+}
+
+footer .footer-contain {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+
+.footer-contain h3 {
+    font-style: oblique;
+    font-size: xx-large;
+    padding: 40px;
+}
+
+.footer-contain p {
+    font-size: larger;
+}
+
+span {
+    color: blueviolet;
+}
+
+/*Recipes page*/
+.picture {
+    width: 213px;
+    height: 183px;
+}
+.logo
+{
+
+ margin-bottom: 10px;
+ /* background-color: black; */
+}
+.top
+{
+ background-color:antiquewhite;   
+ position: fixed;
+  height: 75px;
+  width: 1348px;
+  margin-top: -52px;
+}
